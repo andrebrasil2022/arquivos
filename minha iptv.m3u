@@ -10,7 +10,7 @@ http://51.83.238.223:16141/
 #EXTINF:0 group-title="Aberta" tvg-id="RedeTV.br(m3u4u)" tvg-name="RedeTV!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest?cb=20191119025631" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest?cb=20191119025631" ,RedeTV!
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:0 group-title="Aberta" tvg-id="SBT.br(m3u4u)" tvg-name="SBT Nacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest?cb=20220109225248" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest?cb=20220109225248" ,SBT Nacional
-https://simulcast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/843e9149-2a2b-48cd-8567-15daef8b7577/4.m3u8
+https://simulcast2.sbtvideosonline.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput.m3u8?content_channel_id=12&content_livestream=1
 #EXTINF:0 group-title="Aberta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest?cb=20220201030422" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest?cb=20220201030422" ,TV Globo
 https://8mwx.short.gy/GLOBOSP
 #EXTINF:0 group-title="Aberta" tvg-id="cultura.br(m3u4u)" tvg-name="TV Nova Nordeste HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/LOGO_NOVA_PNG.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/e/ed/LOGO_NOVA_PNG.png" ,TV Nova Nordeste HD
