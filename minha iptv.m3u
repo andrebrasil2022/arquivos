@@ -12,7 +12,7 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 #EXTINF:0 group-title="Aberta" tvg-id="SBT.br(m3u4u)" tvg-name="SBT Nacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest?cb=20220109225248" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest?cb=20220109225248" ,SBT Nacional
 https://simulcast2.sbtvideosonline.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput.m3u8?content_channel_id=12&content_livestream=1
 #EXTINF:0 group-title="Aberta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest?cb=20220201030422" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/f/ff/TV_Globo_2021_azul.png/revision/latest?cb=20220201030422" ,TV Globo
-https://8mwx.short.gy/GLOBOSP
+http://45.235.0.78/GLOBORJ-HD/index.m3u8
 #EXTINF:0 group-title="Aberta" tvg-id="cultura.br(m3u4u)" tvg-name="TV Nova Nordeste HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/LOGO_NOVA_PNG.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/e/ed/LOGO_NOVA_PNG.png" ,TV Nova Nordeste HD
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
 #EXTINF:0 group-title="Agro" tvg-id="CanalRural.br(m3u4u)" tvg-name="Canal Rural" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Canal_Rural_logo_2019.png/revision/latest?cb=20210115023530" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/d/d8/Canal_Rural_logo_2019.png/revision/latest?cb=20210115023530" ,Canal Rural
@@ -66,11 +66,11 @@ https://a.cdni.live/radioesporte/radioesporte/chunklist_w2053053083.m3u8
 #EXTINF:0 group-title="Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Fish_TV_logo_2022.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/9/92/Fish_TV_logo_2022.svg" ,Fish TV
 https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
 #EXTINF:0 group-title="Esportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg/revision/latest?cb=20211208021328" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg/revision/latest?cb=20211208021328" ,SporTV
-https://8mwx.short.gy/SPORTV
+http://45.235.0.78/SPORTV-HD/index.m3u8
 #EXTINF:0 group-title="Esportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/SporTV2_2021.svg/revision/latest?cb=20211208021523" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/9/9f/SporTV2_2021.svg/revision/latest?cb=20211208021523" ,SporTV 2
-https://8mwx.short.gy/SPORTV2
+http://45.235.0.78/SPORTV2-HD/index.m3u8
 #EXTINF:0 group-title="Esportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/SporTV3_2021.svg/revision/latest?cb=20211208021644" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/8/87/SporTV3_2021.svg/revision/latest?cb=20211208021644" ,SporTV 3
-https://8mwx.short.gy/SPORTV3
+http://45.235.0.78/SPORTV3-HD/index.m3u8
 #EXTINF:0 group-title="Esportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/TNT_Sports.svg/revision/latest?cb=20210117041801" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/9/9c/TNT_Sports.svg/revision/latest?cb=20210117041801" ,TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:0 group-title="Esportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/TNT_Sports_2.svg/revision/latest?cb=20210117042357" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/f/f7/TNT_Sports_2.svg/revision/latest?cb=20210117042357" ,TNT Sports 2
@@ -118,7 +118,7 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:0 group-title="Pública" tvg-id="TVCamara.br(m3u4u)" tvg-name="TV Câmara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png" ,TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:0 group-title="Variedades" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Canal_OFF.svg/revision/latest?cb=20220718152032" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/d/d4/Canal_OFF.svg/revision/latest?cb=20220718152032" ,Canal OFF
-https://8mwx.short.gy/CANALOFF
+http://45.235.0.78/OFF-HD/index.m3u8
 #EXTINF:0 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Discovery_H%26H_Logo_2022.webp" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/9/90/Discovery_H%26H_Logo_2022.webp" ,Discovery Home & Health
 https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
 #EXTINF:0 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" ,E!
