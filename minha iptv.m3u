@@ -2,11 +2,11 @@
 #EXTINF:0 group-title="Aberta" tvg-id="AmazonSat.br(m3u4u)" tvg-name="Amazon Sat HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Amazon_sat_logo_2022.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/2/24/Amazon_sat_logo_2022.svg" ,Amazon Sat HD
 https://d31d65o1na6hhj.cloudfront.net/out/v1/3e282733ebc24bb187d716cbfce16a23/index.mpd
 #EXTINF:0 group-title="Aberta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Band_Logo_2018.svg/revision/latest?cb=20200917213105" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/f/fa/Band_Logo_2018.svg/revision/latest?cb=20200917213105" ,Band
-http://45.235.0.78/BAND-HD/index.m3u8
+https://midiapaineis.com/video.php?acesso=517bed48a7ea8c9a5209d6ae5df90bad&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 group-title="Aberta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Rede_Brasil_%282023%29.png/revision/latest?cb=20230414214102" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/6/62/Rede_Brasil_%282023%29.png/revision/latest?cb=20230414214102" ,RBTV
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 #EXTINF:0 group-title="Aberta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231111231148" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png/revision/latest?cb=20231111231148" ,Record
-http://51.83.238.223:16141/
+https://midiapaineis.com/video.php?acesso=a93f8275f18ab5c5cc73b86c862fe7aa&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 group-title="Aberta" tvg-id="RedeTV.br(m3u4u)" tvg-name="RedeTV!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest?cb=20191119025631" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest?cb=20191119025631" ,RedeTV!
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:0 group-title="Aberta" tvg-id="SBT.br(m3u4u)" tvg-name="SBT Nacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest?cb=20220109225248" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest?cb=20220109225248" ,SBT Nacional
@@ -66,11 +66,11 @@ https://a.cdni.live/radioesporte/radioesporte/chunklist_w2053053083.m3u8
 #EXTINF:0 group-title="Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Fish_TV_logo_2022.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/9/92/Fish_TV_logo_2022.svg" ,Fish TV
 https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
 #EXTINF:0 group-title="Esportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg/revision/latest?cb=20211208021328" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg/revision/latest?cb=20211208021328" ,SporTV
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/993
+https://midiapaineis.com/video.php?acesso=fc0f8162ec94844e15f2e75fa09caa8f&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 group-title="Esportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/SporTV2_2021.svg/revision/latest?cb=20211208021523" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/9/9f/SporTV2_2021.svg/revision/latest?cb=20211208021523" ,SporTV 2
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9
+https://midiapaineis.com/video.php?acesso=0e9270575b78ad565219b830f2f98a68&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 group-title="Esportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/SporTV3_2021.svg/revision/latest?cb=20211208021644" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/8/87/SporTV3_2021.svg/revision/latest?cb=20211208021644" ,SporTV 3
-http://45.235.0.78/SPORTV3-HD/index.m3u8
+https://midiapaineis.com/video.php?acesso=609c33e1145ee53a8b129f4882c9bc9d&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 group-title="Esportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/TNT_Sports.svg/revision/latest?cb=20210117041801" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/9/9c/TNT_Sports.svg/revision/latest?cb=20210117041801" ,TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:0 group-title="Esportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/TNT_Sports_2.svg/revision/latest?cb=20210117042357" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/f/f7/TNT_Sports_2.svg/revision/latest?cb=20210117042357" ,TNT Sports 2
@@ -84,21 +84,21 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 #EXTINF:0 group-title="Esportes" tvg-logo="https://woohoo.com.br/wp-content/uploads/2023/04/woohoo-hor-300x69.png" tvg-logo-small="https://woohoo.com.br/wp-content/uploads/2023/04/woohoo-hor-300x69.png" ,Woohoo
 https://cdn-1.nxplay.com.br/WOOHOO_TK/index.m3u8
 #EXTINF:0 group-title="Filmes e Séries" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest?cb=20180507153757" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest?cb=20180507153757" ,A&E
-http://45.235.0.78/A&E-HD/index.m3u8
+https://midiapaineis.com/video.php?acesso=62310be14e89cf215070e7e9e03ddee4&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 group-title="Filmes e Séries" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest?cb=20201126064846" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest?cb=20201126064846" ,AXN
-http://45.235.0.78/AXN-HD/index.m3u8
+https://midiapaineis.com/video.php?acesso=cf28c1523ef7a291d477862b3e4ffb63&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 group-title="Filmes e Séries" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Logo_of_Curta%21.png/revision/latest?cb=20210508184452" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/a/af/Logo_of_Curta%21.png/revision/latest?cb=20210508184452" ,Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 #EXTINF:0 group-title="Filmes e Séries" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/CanalDiscoveryIDLA.png/revision/latest?cb=20230105155919" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/5/58/CanalDiscoveryIDLA.png/revision/latest?cb=20230105155919" ,Discovery ID
 http://45.235.0.78/DISCOVERYID-HD/index.m3u8
 #EXTINF:0 group-title="Filmes e Séries" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Logosonychannellatam2023.png/revision/latest?cb=20230823021459" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/d/d2/Logosonychannellatam2023.png/revision/latest?cb=20230823021459" ,Sony Channel
-http://45.235.0.78/SONY-HD/index.m3u8
+https://midiapaineis.com/video.php?acesso=92e2908d0f9915c744c96ddd52ddd37a&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 group-title="Filmes e Séries" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest?cb=20190815211939" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest?cb=20190815211939" ,Sony Movies
-https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
+https://midiapaineis.com/video.php?acesso=c064d5974997c183b631cd918fa5a390&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 group-title="Filmes e Séries" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Universal_TV_logo.svg/revision/latest?cb=20210103235912" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/4/42/Universal_TV_logo.svg/revision/latest?cb=20210103235912" ,Universal TV
-http://45.235.0.78/UNIVERSALTV-HD/index.m3u8
+https://midiapaineis.com/video.php?acesso=3546c386ad888feaec17f84a38f8e809&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 group-title="Filmes e Séries" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Megapix_2015.svg/revision/latest?cb=20220425151703" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/8/8e/Megapix_2015.svg/revision/latest?cb=20220425151703" ,Megapix
-http://45.235.0.78/MEGAPIX-HD/index.m3u8
+https://midiapaineis.com/video.php?acesso=cabef2a1459efd4972cf68b384e998e5&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 group-title="Jornalismo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/BandNewsTV2021.png/revision/latest?cb=20210530131416" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/8/8d/BandNewsTV2021.png/revision/latest?cb=20210530131416" ,BandNews TV
 https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/playlist.m3u8
 #EXTINF:0 group-title="Jornalismo" tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol.svg" tvg-logo-small="https://conteudo.imguol.com.br/c/play/logo_canaluol.svg" ,Canal UOL
@@ -120,7 +120,7 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:0 group-title="Pública" tvg-id="TVCamara.br(m3u4u)" tvg-name="TV Câmara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png" ,TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:0 group-title="Variedades" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Canal_OFF.svg/revision/latest?cb=20220718152032" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/d/d4/Canal_OFF.svg/revision/latest?cb=20220718152032" ,Canal OFF
-http://45.235.0.78/OFF-HD/index.m3u8
+https://midiapaineis.com/video.php?acesso=b649606d1c502ca6b361ff6dde72dc10&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Discovery_H%26H_Logo_2022.webp" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/9/90/Discovery_H%26H_Logo_2022.webp" ,Discovery Home & Health
 https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
 #EXTINF:0 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" ,E!
@@ -130,7 +130,7 @@ https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 #EXTINF:0 group-title="Variedades" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest?cb=20231006154546" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest?cb=20231006154546" ,HGTV
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
 #EXTINF:0 group-title="Variedades" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Lifetime_2020.svg/revision/latest?cb=20200203171509" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/1/11/Lifetime_2020.svg/revision/latest?cb=20200203171509" ,Lifetime
-http://45.235.0.78/LIFETIME-HD/index.m3u8
+https://midiapaineis.com/video.php?acesso=352b5c6231363524527bff3a9dcdc3b2&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 group-title="Variedades" tvg-logo="https://pixtv.com.br/wp-content/uploads/2023/05/logo.png" tvg-logo-small="https://pixtv.com.br/wp-content/uploads/2023/05/logo.png" ,PixTV
 https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
 #EXTINF:0 group-title="Variedades" tvg-logo="https://redemaisfamilia.com.br/wp-content/uploads/2022/08/Logo-rede-mais-familia.png" tvg-logo-small="https://redemaisfamilia.com.br/wp-content/uploads/2022/08/Logo-rede-mais-familia.png" ,Rede Mais Família
@@ -138,4 +138,4 @@ https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 #EXTINF:0 group-title="Variedades" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/TLC_%282021%29.svg/revision/latest?cb=20220703193228" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/b/b1/TLC_%282021%29.svg/revision/latest?cb=20220703193228" ,TLC
 https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
 #EXTINF:0 group-title="Variedades" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Canal_Viva_2018.svg/revision/latest?cb=20201122194019" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/0/0a/Canal_Viva_2018.svg/revision/latest?cb=20201122194019" ,Viva
-http://45.235.0.78/VIVA-HD/index.m3u8
+https://midiapaineis.com/video.php?acesso=3929ed6d099ec3bef2e207afc54cc426&usuario=7052eea839212efa2306b59499de1846
